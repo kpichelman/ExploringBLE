@@ -1,0 +1,17 @@
+/Users/kevin/ExploringBLE/ExploringBLE/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/kevin/ExploringBLE/ExploringBLE/bin/Debug/ExploringBLE.dll.mdb
+/Users/kevin/ExploringBLE/ExploringBLE/bin/Debug/ExploringBLE.dll
+/Users/kevin/ExploringBLE/ExploringBLE/bin/Debug/ExploringBLE.ExploringBLE.apk
+/Users/kevin/ExploringBLE/ExploringBLE/obj/Debug/android/bin/ExploringBLE.ExploringBLE.apk
+/Users/kevin/ExploringBLE/ExploringBLE/obj/Debug/res/layout/main.xml
+/Users/kevin/ExploringBLE/ExploringBLE/obj/Debug/res/values/strings.xml
+/Users/kevin/ExploringBLE/ExploringBLE/obj/Debug/res/drawable-hdpi/icon.png
+/Users/kevin/ExploringBLE/ExploringBLE/obj/Debug/res/drawable-mdpi/icon.png
+/Users/kevin/ExploringBLE/ExploringBLE/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/kevin/ExploringBLE/ExploringBLE/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/kevin/ExploringBLE/ExploringBLE/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/kevin/ExploringBLE/ExploringBLE/obj/Debug/R.cs.flag
+/Users/kevin/ExploringBLE/ExploringBLE/bin/Debug/ExploringBLE.ExploringBLE-Signed.apk
+/Users/kevin/ExploringBLE/ExploringBLE/obj/Debug/uploadflags.txt
+/Users/kevin/ExploringBLE/ExploringBLE/obj/Debug/ExploringBLE.dll
+/Users/kevin/ExploringBLE/ExploringBLE/obj/Debug/ExploringBLE.dll.mdb

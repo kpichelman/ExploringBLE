@@ -1,0 +1,8 @@
+ExploringBLE.MainActivity, ExploringBLE;md5ec6fc2756eac100cee2d48a62ded64dd.MainActivity
+ExploringBLE.MainActivity, ExploringBLE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ec6fc2756eac100cee2d48a62ded64dd.MainActivity
+ExploringBLE.MainActivity;md5ec6fc2756eac100cee2d48a62ded64dd.MainActivity
+exploringble.MainActivity;md5ec6fc2756eac100cee2d48a62ded64dd.MainActivity
+ExploringBLE.GattCallback, ExploringBLE;md5ec6fc2756eac100cee2d48a62ded64dd.GattCallback
+ExploringBLE.GattCallback, ExploringBLE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ec6fc2756eac100cee2d48a62ded64dd.GattCallback
+ExploringBLE.GattCallback;md5ec6fc2756eac100cee2d48a62ded64dd.GattCallback
+exploringble.GattCallback;md5ec6fc2756eac100cee2d48a62ded64dd.GattCallback
