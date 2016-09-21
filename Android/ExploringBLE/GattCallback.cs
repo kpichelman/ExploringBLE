@@ -12,7 +12,6 @@ namespace ExploringBLE
 			_parent = parent;
 		}
 
-
 		public void OnLeScan(BluetoothDevice device, int rssi, byte[] scanRecord)
 		{
 			_parent.UpdateTextView("Found one!");
